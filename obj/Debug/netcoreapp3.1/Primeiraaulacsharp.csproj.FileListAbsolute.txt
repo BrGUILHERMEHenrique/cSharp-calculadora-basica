@@ -1,0 +1,13 @@
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/bin/Debug/netcoreapp3.1/Primeiraaulacsharp
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/bin/Debug/netcoreapp3.1/Primeiraaulacsharp.deps.json
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/bin/Debug/netcoreapp3.1/Primeiraaulacsharp.runtimeconfig.json
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/bin/Debug/netcoreapp3.1/Primeiraaulacsharp.runtimeconfig.dev.json
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/bin/Debug/netcoreapp3.1/Primeiraaulacsharp.dll
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/bin/Debug/netcoreapp3.1/Primeiraaulacsharp.pdb
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.csprojAssemblyReference.cache
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.AssemblyInfoInputs.cache
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.AssemblyInfo.cs
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.csproj.CoreCompileInputs.cache
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.dll
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.pdb
+/home/brguilhermehenrique/.local/share/Trash/files/Primeiraaulacsharp/obj/Debug/netcoreapp3.1/Primeiraaulacsharp.genruntimeconfig.cache
